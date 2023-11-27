@@ -1,0 +1,9 @@
+C:\Users\ariya\source\repos\CopyPaste\key-copy-paster\CopyPaste\bin\Release\CopyPaster.exe
+C:\Users\ariya\source\repos\CopyPaste\key-copy-paster\CopyPaste\bin\Release\CopyPaster.pdb
+C:\Users\ariya\source\repos\CopyPaste\key-copy-paster\CopyPaste\bin\Release\System.ValueTuple.xml
+C:\Users\ariya\source\repos\CopyPaste\key-copy-paster\CopyPaste\obj\Release\CopyPaste.Main.resources
+C:\Users\ariya\source\repos\CopyPaste\key-copy-paster\CopyPaste\obj\Release\CopyPaster.Properties.Resources.resources
+C:\Users\ariya\source\repos\CopyPaste\key-copy-paster\CopyPaste\obj\Release\CopyPaster.csproj.GenerateResource.Cache
+C:\Users\ariya\source\repos\CopyPaste\key-copy-paster\CopyPaste\obj\Release\CopyPaster.exe
+C:\Users\ariya\source\repos\CopyPaste\key-copy-paster\CopyPaste\obj\Release\CopyPaster.pdb
+C:\Users\ariya\source\repos\CopyPaste\key-copy-paster\CopyPaste\obj\Release\CopyPaster.csprojResolveAssemblyReference.cache

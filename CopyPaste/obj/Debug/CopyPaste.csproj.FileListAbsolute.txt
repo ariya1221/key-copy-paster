@@ -1,0 +1,12 @@
+C:\Users\ariya\source\repos\CopyPaste\CopyPaste\bin\Debug\CopyPaste.exe
+C:\Users\ariya\source\repos\CopyPaste\CopyPaste\bin\Debug\CopyPaste.pdb
+C:\Users\ariya\source\repos\CopyPaste\CopyPaste\bin\Debug\System.ValueTuple.dll
+C:\Users\ariya\source\repos\CopyPaste\CopyPaste\bin\Debug\System.ValueTuple.xml
+C:\Users\ariya\source\repos\CopyPaste\CopyPaste\obj\Debug\CopyPaste.csproj.AssemblyReference.cache
+C:\Users\ariya\source\repos\CopyPaste\CopyPaste\obj\Debug\CopyPaste.Form1.resources
+C:\Users\ariya\source\repos\CopyPaste\CopyPaste\obj\Debug\CopyPaste.Properties.Resources.resources
+C:\Users\ariya\source\repos\CopyPaste\CopyPaste\obj\Debug\CopyPaste.csproj.GenerateResource.cache
+C:\Users\ariya\source\repos\CopyPaste\CopyPaste\obj\Debug\CopyPaste.csproj.CoreCompileInputs.cache
+C:\Users\ariya\source\repos\CopyPaste\CopyPaste\obj\Debug\CopyPaste.csproj.CopyComplete
+C:\Users\ariya\source\repos\CopyPaste\CopyPaste\obj\Debug\CopyPaste.exe
+C:\Users\ariya\source\repos\CopyPaste\CopyPaste\obj\Debug\CopyPaste.pdb
